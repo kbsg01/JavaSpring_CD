@@ -1,0 +1,16 @@
+h1{
+    display: flex;
+    justify-content: space-around;
+}
+
+.divi{
+    display: flex;
+    justify-content:space-evenly;
+    margin: 10px, 0px;
+}
+
+a{
+    color: blue;
+    font-weight: 700;
+    font-size: large;
+}
