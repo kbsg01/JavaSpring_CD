@@ -1,0 +1,10 @@
+.container{
+    display: grid;
+    margin-top: 10px;
+    padding: 10px;
+}
+a{
+    color: black;
+    text-decoration: none;
+}
+
