@@ -1,0 +1,30 @@
+body{
+    margin: 5px;
+}
+#score h2{
+    display: inline-table;
+}
+
+.places{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 1000px;
+    margin: 20px;
+}
+
+.box{
+    width: 195px;
+    padding: 10px;
+    vertical-align: middle;
+    border-radius: 5px;
+}
+
+#activities{
+    margin: 10px;
+    height: 600px;
+}
+
+activity-box{
+    max-height: 400px;
+}
