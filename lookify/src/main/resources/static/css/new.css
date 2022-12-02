@@ -1,0 +1,18 @@
+div  .col{
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+    padding: 5px;
+}
+.one{
+    margin-right: 65px;
+}
+
+.btn{
+    display: flex;
+    justify-content: end;
+}
+
+.inp{
+    margin-right: 485px;
+}
